@@ -36,7 +36,8 @@ I built this as a beginner-friendly project to get more comfortable with OpenCV 
 📷 Demo
 
 When you run the code with your webcam, a window will open showing your face with a rectangle around it.
-<img width="678" height="531" alt="facedetection" src="https://github.com/user-attachments/assets/1dc9e9dd-9b6f-4932-ae99-de07db5e4973" />
+<img width="861" height="637" alt="image" src="https://github.com/user-attachments/assets/ef072364-de5c-48dc-a2f4-e6967e49c445" />
+
 
 
 
